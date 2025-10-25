@@ -1,0 +1,10 @@
+feature,abs_coef
+num__dep_hour,0.6969571045248577
+num__load_factor,0.0621314712381143
+num__sched_turn_slack,0.04836969096700019
+num__pct_children,0.04269997124629425
+num__transfer_bag_ratio,0.0
+num__ssr_rate,0.0
+num__pct_basic_econ,0.0
+num__stroller_rate,0.0
+bin__is_international,0.0
